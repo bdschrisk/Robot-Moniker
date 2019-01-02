@@ -1,0 +1,702 @@
+Talos
+Golem
+Talus
+Olimpia
+Olympia
+Hadaly
+Brazen
+Metal Man
+Tik Tok
+Automata
+Zat
+Link
+Gnut
+Jenkins
+Robbie
+Speedy
+Cutie
+L-76
+Z-1
+Z-3
+Emma-2
+Brackenridge
+Tony
+Lenny
+Ez-27
+Norby
+Astro Boy
+Gallegher
+Bors
+Zane Gort
+SHROUD
+Frost
+Trurl
+Iron Man
+Pris
+Nexus-6
+Diktor
+Setaur
+Aniel
+Terminus
+Marvin
+Chip
+Roderick
+Autobot
+Elio
+Manders
+Solo
+Sheen
+Conal Cochrans
+C3-PO
+R2-D2
+Clunk
+Clank
+Otis
+Freya
+HCR-328
+Moravec
+Futura
+Gort
+Mark 1
+Ro-Man
+Tobor
+Robby
+Moguera
+Colossus
+Omega
+Neptune Man
+Torg
+Fembot
+Garth A7
+IG-88
+4LOM
+Proteus IV
+Beba-2
+Tilk
+Tilly
+Sparks
+Lomax
+Ash
+Hermes
+Ilia
+VINCENT
+Necron-99
+Galaxina
+Hector
+Val
+HAL-9000
+T-800
+T-101
+Beta
+DARYL
+Sico
+BB
+Bishop
+Jinx
+Spot
+RALF
+Johnny 5
+Optimus Prime
+ED-209
+Cherry 2000
+Ulysses
+Dot Matrix
+Data
+Astor
+Lore
+Mark 13
+Johnny Cab
+T-1000
+Eve
+Alsatia Zevo
+Otomo
+J5
+SID 6.7
+Project 2501
+Evolver
+Call
+Weebo
+ROTOR
+Bender
+Autonomous Mapping Exploration and Evasion
+Tima
+SIMON
+Kay-Em 14
+Bruno
+S1M0NE
+B-4
+Bio-Electronic Navigator
+R4-P17
+US 47
+The Iron Giant
+Max 404
+Cassandra One
+G2
+Sentinel
+Giddy
+M-O
+AUTO
+GO-4
+SUPPLY-R
+EVE
+Gerty 3000
+Mec Willy
+Jaeger
+Baymax
+Ultron
+CHAPPiE
+Tet
+David 8
+K-2SO
+SAR-003
+K
+Luv
+Freysa
+Sapper Morton
+Mariette
+Robot Simon
+Trent
+Adam Link
+War Machine
+Yeti
+Servo Robot
+Quark
+Tobor
+Deep Space Probe
+Xenian
+The Junkman
+Robot B-9
+Windam
+King Joe
+Zero one
+Hymie the Robot
+Government test robot
+Smiley the Robot
+Dr. Roger Korby
+Andrea
+Dr. Brown
+Ruk
+Kirk
+Nomad
+Rayna Kapec
+Norman
+Stella Mudd
+Mildred the Maid
+Joe 90
+Slim John
+Zed
+K1 Robot
+Sontaran Knight Robot
+IMC Mining Robot
+MM7
+Mr RING
+Death Probe
+Questor
+Taran
+Movellans
+K9
+Polyphase Avatron
+Seers of the Oracle
+Osirian Service Robot
+The Servant of the Guardian
+Gwent
+The Cloud Creature
+Fi
+Alfie the Robot
+Yo-Yo
+Officer Haven
+REM
+Draco
+Friend
+Nanny
+Ariana
+The Clinker
+Peepo
+Haro
+Voltes V
+POPS
+7-Zark-7
+1-Rover-1
+Cylon
+Lucifer
+Specter
+IQ-9
+Rover
+Cori
+Dr. Prescott
+Dr. Tobias
+Dr. Lazaar
+Andy the Robot
+Chuck the Robot
+Mermadon
+Twiki
+Tina
+W1k1
+Romie-0
+Julie-8
+Robot 67 Bright 2
+Metal Mickey
+K9-MkIII
+Raston Warrior Robot
+Dalek
+Androzani
+Karfelan
+Drathro
+L1 Robot
+Sillycone
+The Kandy Man
+Bus Conductor
+Robot Clown
+KITT
+KARR
+Sergeant Major Zero
+Space Sergeant 101
+Dix-Huit
+Zeroid
+Roboz
+Battle Android Trooper
+Dr Killjoy
+Go-bot
+Voltron
+Roboto
+Voice Input Child Indenticant
+Vanessa
+Tor
+Bort
+Bo
+Boo
+Crunch
+Oh-No
+Conky 2000
+T-Bob
+Bionic Six
+Julian Tainer
+Tom Servo
+Chip Carson
+Blinky
+Blitz
+No-No
+Kevin
+Kryten
+ASTAR
+Sergeant Eve Edison
+Alpha and Omega
+Exocomp
+Megazord
+Alpha 5
+Rexor
+Battle Borg
+Moloch
+Buffybot
+Warrenbot
+Melfina
+Ringer
+Techno Human EmuLating MAchine
+Quantron
+Rusty
+Satan's Robot
+Ian Favre
+Multi
+Zero
+VR Troopertron
+Ken
+Robocrook
+Paperboy 2000
+Spongetron
+Valerie 23
+Mary 25
+Azaka
+Kamidake
+Janperson
+David
+Destructo Bot
+Kurum
+Funnybot
+Mecha-Streisand
+Computerized Humanoid Electronically Enhanced Secret Enforcer
+Daggermouth
+The Machine
+Linguo
+Simon
+Mr Dent
+SARA SARA
+eXperimental Ranger
+Back-Pack
+Cyclobot
+Zeta
+Larry 3000
+Mahoro
+Nano Tick
+Ant Drone
+Flying Termite
+Beetle Drone
+Alpha 7
+Goddard
+Daigunder
+Chii
+Thundercleese
+Flamingo of Doom
+Wadebot
+Destructo-bot
+Stockbot
+XJ-9 Wakeman
+Tinabob
+Zeo Zagart
+Karaibot
+TurtleBot
+Nano
+Humanoid Electric Lab Partner Robot
+GUARDO
+Tachikoma
+CARR
+Digitally Advanced Villan Emulator
+Cylon
+Number One
+Number Two
+Number Three
+Number Five
+Number Six
+Number Seven
+Number Eight
+Galen Tyrol
+Tory Foster
+Saul Tigh
+Ellen Tigh
+T-Bot
+X-5
+B-1
+Robo-Betty
+Replicator
+Gunslinger
+Anne Droid
+HMX-17a Ilfa
+Trin-E
+Zu-Zana
+Davinadroid
+Robotboy
+Ben 10
+Slix Vigma
+SAM
+Fallbot
+Loganator
+Johnny Test
+Tama
+Woodbot
+Serling
+Viral
+Cyber Shredder
+Octus
+STAN
+General Crunch
+General Shifter
+Tenaya 7
+Grinder
+Cameron
+Plex
+AIDA
+Alpha-red
+Argus
+Assisdroid
+Attacbot
+Berserker
+Black Lion
+Blip
+Blitz bot
+BMO
+Bolts
+Burnbot
+Buster
+Carl
+Chip
+Coach Gridiron
+Clevetron
+Cosbytron 5000
+Cybot
+Decimator
+Darklops Zero
+Destructo
+MX-43
+Dreddnaughts
+Dudy
+Evil Lazer
+Evil Robot Axe Cop
+Fister Roboto
+Dropkick
+The Disciplinarian
+Footbot
+Foxbot
+Frankie
+Freda
+Galactron
+Guardbot
+Grindertron
+Guardian of the Status Quo
+Hank
+The Hive Queen
+Hot Robor
+Hurtbot
+IDbot
+Interrobot
+Irmabot
+Isaac
+Isla
+Jack Hammer
+Janet
+Jeanbot
+Jean-Nine
+Jimmy the Robot
+Judy
+K-Pop
+Kitty Ko
+Kraken
+Kriegerbot
+Krackenstein
+Kudobot
+KVN
+Lance
+Leaderbot
+The Law
+Mandroid
+Marcus Davenport
+Matt Barnes
+Maxum Brain
+Mecha Gomora
+Medbot
+Mega
+Mega Skullbot
+Meka-Zorn
+The Messenger
+Metal Alice
+Milton
+Mindroid
+Molly X
+Morbot
+NEPTR
+Nindroid
+Nodbot
+Noodles
+Orson
+Painbot
+Partybot
+Principal Howard
+Private Beats
+Psychobot
+Radbot
+Redbot
+Robo-Ape
+Robo-Baby
+Robo Knight
+Robo-Raptor
+Robo-Lawyer
+Robo-Usher 3000
+Robot Shooty Thing
+Rotox
+Rotox DX
+Saedee
+Sasha
+Scaramouche
+Scrapmaster
+Scrubberbot
+Secretarabot 2500
+Space Mice
+Steel
+Stufferbot
+TAALR
+T-1
+T-2
+T-3
+Team Barefoot
+Ted-A
+Ted-R
+Tensou
+THX-1138
+Thorax the Thunder Wasp
+Troy West
+Tigrr Jaxxon
+Totbot 3000
+Validate
+VX3 Warbot
+Wafflebot
+Water Rotox
+Weatherhead
+Welder
+XBorg
+Yellow Lion
+Zane
+PIXAL
+Computo
+Clicker
+Lady Ada
+Machine Man
+Manhunter
+Mouser
+Nanotron
+Human Torch
+Roboduck
+Dr. Ivo Robotnik
+Skeet
+Young Vision
+The Vision
+Victor Mancha
+Ida
+Atomic Robo Tesla
+L-Ron
+C-Gram
+Android Andy
+Armoured Gideon
+Brassneck
+Elektrobot
+Mechanismo
+Robot Archie
+Walter the Wobot
+Otomox
+Cyanure
+Madame Adolphine
+RanXerox
+Tonto
+Lothar
+Chi
+Doraemon
+Chihiro
+Robita
+Tres Iques
+Alpha Hatsuseno
+Chachamaru Karakuri
+Rin Asakura
+Kokone Takatsu
+Maruko Maruko
+Director Alpha Koumiishi
+Nai
+Sergeant Metallic
+Android 8
+Dr. Gero
+Beetlebot
+Bossbot
+Rubert
+The Vacunator
+Ezekiel
+X-bot
+Ping
+Pintsize
+Clango Cyclotron
+Stella 4D
+Manager 45
+Visor Robot
+Grape-Nuts Robot
+CPDoom
+Schniz
+Church
+Tex
+Dallas 13
+Cubot
+Codsworth
+BT-7274
+Bouncer
+Wind-Up
+Jawbreaker
+Ro-Bow
+Gearshift
+Drill Sergeant
+Magna Charge
+High Volt
+Bastion
+Orisa
+Zenyatta
+Tekhartha Mondatta
+Chefbot 9000
+Dr. Kahl's Robot
+Omnic
+GLaDOS
+White Bomber
+Ashlotte
+Cowboy Robot
+Adam
+Zero
+LUX TIZER
+Foxy
+Chica
+Mettaton
+K1-B0
+Snatcher
+AI King
+Mechatron
+Miss Bloody Rachel
+Dr. Ion
+Shamus
+Cyber Sub-Zero
+Sektor
+Smoke
+Sectopod
+Gadget
+Combot
+Jacks
+NANCY-MI847J
+Cyberdisc
+ROB 64
+Servbot
+Doctor Nefarious
+Cortana
+343 Guilty Spark
+2401 Penitent Tangent
+Machina
+Ninja
+Thursday
+Kurt Zisa
+Geary
+Dog
+Ridepod
+Chibi-Robo
+Mike
+Rocket
+Browny
+Copyroid
+Medabot
+CD-288
+Oscar
+Curly Brace
+R-110
+Quote
+Miss Impact
+Goemon Impact
+Jack of All Trades
+Fillibot
+TOBOR
+Proto-Makoto
+Aigis
+Metis
+RFS-81
+Deskbot
+Bellbot
+Doorbot
+Liftbot
+Barbot
+Maitre d'
+EDI
+Atlas
+P-Body
+Curie
+Harkness
+A3-21
+Simbot
+Sackbot
+Working Joe
+Industrial Joe
+Ghost
+Skell
+Mimeozone
+Ruukoto
+VIVIT
+Drone
+2B
+9S
+A2
+HK-47
+Bishop
+Marvin the Paranoid Android
+The Iron Giant
+Cindi Mayweather
+Rosie
+ASIMO
+The Terminator
+HAL 9000
+Sojourner
